@@ -1,0 +1,7 @@
+name: SpigotPluginTest
+version: 1.0
+author: Taegan
+main: me.taegan.spigotplugintest.SpigotPluginTest
+
+commands:
+  Hello:
