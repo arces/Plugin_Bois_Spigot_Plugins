@@ -1,0 +1,7 @@
+name: QOL_Plugin_Test
+version: 1.0
+author: Plugin_Bois_Spigot_Plugins
+main: spigot_plugins.plugin_bois.qol_plugin_test.Main
+
+commands:
+  Hello:
